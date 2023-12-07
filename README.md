@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - Fifth Year Computer Science Student [@UBC Okanagan](https://ok.ubc.ca/).
+ - Fourth Year Computer Science Student [@UBC Okanagan](https://ok.ubc.ca/).
  - Proficient in:
    - Python
    - Java
@@ -8,6 +8,8 @@
    - HTML5
    - CSS
    - JavaScript
+   - React
+   - Typescript
 
 [![Existential-Critic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Existential-Critic&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
