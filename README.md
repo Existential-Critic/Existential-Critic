@@ -6,10 +6,13 @@
    - Java
    - JavaScript
    - Typescript
+   - React
  - Learning:
    - HTML5
    - CSS
-   - React
+   - GraphQL
+   - Next.js
+   - Docker
 
 [![Existential-Critic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Existential-Critic&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
