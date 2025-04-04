@@ -4,12 +4,12 @@
  - Proficient in:
    - Python
    - Java
+   - JavaScript
+   - Typescript
  - Learning:
    - HTML5
    - CSS
-   - JavaScript
    - React
-   - Typescript
 
 [![Existential-Critic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Existential-Critic&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
