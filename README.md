@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - Fourth Year Computer Science Student [@UBC Okanagan](https://ok.ubc.ca/).
+ - Graduate of [UBC Okanagan](https://ok.ubc.ca/), Bachelor's of Science with Honours in Computer Science.
  - Proficient in:
    - Python
    - Java
